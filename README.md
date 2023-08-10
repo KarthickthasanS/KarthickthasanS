@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 I am a passionate computer science engineer seeking a challenging position where I can leverage my knowledge of data science and coding languages like C and Python to develop innovative solutions that meet and exceed customer expectations.
 
 **Achievements:**
-- Guinness World Record Holder
-- Elite Book of Record Holder
+- Guinness World Record 
+- Elite Book of Record 
 - Secured 3rd Prize in Technical Quiz at SNMV College of Arts and Science
 
 **Programming Languages:**
