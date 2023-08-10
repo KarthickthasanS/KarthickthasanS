@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 **Contact Information:**
-- LinkedIn: [KarthickthasanS](www.linkedin.com/in/karthickthasans)
+- LinkedIn: [KarthickthasanS](https://www.linkedin.com/in/karthickthasans)
 
 <!--
 **KarthickthasanS/KarthickthasanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
