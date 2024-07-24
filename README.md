@@ -32,7 +32,6 @@ I am a passionate computer science engineer seeking a challenging position where
 - C
 - HTML
 - CSS
-- PHP
 - SQL
   
 **Tools:**
@@ -80,10 +79,3 @@ KGX, July 2023 - Present
 - English: Read/Write/Speak
 - Malayalam: Conversational
 
-**Hobbies:**
-- Photography
-- Stock Market Analysis
-- Webseries
-
-
-I am enthusiastic about tackling new challenges and constantly expanding my computer science and technology knowledge.
